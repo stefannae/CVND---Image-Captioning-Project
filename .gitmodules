@@ -1,0 +1,3 @@
+[submodule "submodules/cocoapi"]
+	path = submodules/cocoapi
+	url = https://github.com/cocodataset/cocoapi
