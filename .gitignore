@@ -4,3 +4,6 @@ data/
 __pycache__/
 annotations/
 .DS_Store
+submodules/
+vocab.pkl
+*_log.txt
